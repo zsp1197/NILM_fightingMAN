@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ab845174-a8bc-44d8-913c-bea32bfc82be" name="uftp" url="http://202.120.60.50">
+        <fileTransfer host="202.120.60.50" port="822" rootFolder="/home/uftp/hubei/NILM_fightingMAN" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="822" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

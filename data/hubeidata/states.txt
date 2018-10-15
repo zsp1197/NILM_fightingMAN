@@ -1,0 +1,10 @@
+xusuqian/
+['computer', '_Sck-20-2d9bec07004b1200.xls'] 50 35 0
+['cooker', '_Sck-20-9197ec07004b1200.xls'] 600 0
+['fridge', '_Sck-10-2f9aec07004b1200.xls'] 800 80 0
+['lamp', '_Sck-20-c997ec07004b1200.xls'] 38 12 0
+['laptop', '_Sck-10-e39eec07004b1200.xls'] 10 0
+['printer', '_Sck-20-349dec07004b1200.xls'] 50 30 0
+['TVbox', '_Sck-10-b7f9db07004b1200.xls'] 6
+['TV', '_Sck-10-d0a7ec07004b1200.xls'] 120 0
+['washingmachine', '_Sck-20-61a2ec07004b1200.xls'] 600 350 250 0
